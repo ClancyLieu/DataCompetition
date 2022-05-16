@@ -11,3 +11,5 @@ record of data science competitions I've joined.
 ------------------------------------------------------------------------------
 
 2022年5月12日｜[招商银行Fintech精英训练营数据赛道](https://github.com/ClancyLieu/DataCompetition/tree/main/2022CMBFintech)｜分类问题，利用结构化数据进行公司存款流失概率预测｜使用特征工程+SVM模型&人工神经网络模型，最终排名370左右（参赛人数未知，至少979人）。
+
+2022年5月16日｜[国泰君安发债企业违约风险预测](https://github.com/ClancyLieu/DataCompetition/tree/main/2022CMBFintech)｜分类问题，利用2018-2020年的结构化数据进行发债企业2021年违约概率进行预测｜时间紧迫，从13号开始做至16号比赛截止，仅使用特征工程+SVM模型完成了baseline，baseline排名280左右（报名队伍600+）。
